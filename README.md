@@ -9,4 +9,4 @@ Java文件数字签名验证工具
 
 文档
 ------
-[Java文件数字签名验证工具使用手册](http://aofengblog.blog.163.com/blog/static/6317021201041632442717/, "Java文件数字签名验证工具使用手册")
+[Java文件数字签名验证工具使用手册](http://aofengblog.blog.163.com/blog/static/6317021201041632442717/ "Java文件数字签名验证工具使用手册")
